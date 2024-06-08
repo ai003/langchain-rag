@@ -1,0 +1,5 @@
+# API keys
+.env
+
+# Specific test script
+test.py
