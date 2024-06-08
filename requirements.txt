@@ -1,0 +1,6 @@
+pypdf
+langchain-community
+chromadb # Vector storage
+pytest
+spacy
+#spacy model: (model_name="en_core_web_sm")
